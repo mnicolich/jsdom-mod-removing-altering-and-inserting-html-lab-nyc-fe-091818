@@ -1,5 +1,6 @@
 /* Enter the code to remove the main node element under this comment */
 document.querySelector('main').remove()
+let pTag = document.querySelector('div p')
 
 /* Create your new element here and assign it to newHeader */
 const newHeader = victory
