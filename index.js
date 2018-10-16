@@ -4,5 +4,5 @@
 const newHeader = null;
 let pTag = document.createElement('p')
 pTag.innnerText = "Melissa is the champion!"
-let thirdDiv = document.querySelector("#third-div")
+let thirdDiv = document.querySelector("#victory")
 thirdDiv.appendChild(pTag)
