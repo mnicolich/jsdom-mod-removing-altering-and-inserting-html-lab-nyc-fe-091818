@@ -3,3 +3,4 @@
 /* Create your new element here and assign it to newHeader */
 const newHeader = null;
 let pTag = document.createElement('p')
+pTag.innnerText = "Some text"
