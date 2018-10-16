@@ -2,7 +2,7 @@
 document.querySelector('main').remove()
 
 /* Create your new element here and assign it to newHeader */
-const newHeader = null;
+const newHeader = victory;
 let pTag = document.createElement('p')
 pTag.innnerText = "Melissa is the champion!"
 let thirdDiv = document.querySelector("#victory")
